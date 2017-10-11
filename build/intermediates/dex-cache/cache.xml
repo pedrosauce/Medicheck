@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\6b733e17b4a0b1325509bb3f45892750e1786023\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_39b4f49034f7f1dc2b62f0dd6c06a72d608aded3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\7b4d606a97ae31b81a87edf644e68a80514dccb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_bf4f2f8e8d6d4fc17ad99b8a950d0f547e5158fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\7ec9165a2b8c6aa64aed17702b8486190cc4aace\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_754409cfa92885886d80aca433e71590830da970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\09d60d807c6b9e5de78b513cb93ec2da56755440\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_0afe09d99705e4f7411f7edce1e6bcbfba76bbe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\8d637fba2258f27a192b4f167d51ab746c40ed28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_9f57059749160e80c156e9681beab8825c5690ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\8de49bfe45b585b0ca73997f8b8a6c268fe1526f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_6f86609ed7984b352b78bc723d3f5929cced64b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_b5ba6433e00ef427c178d1a1d9ac093d0baec851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\7521efd996970321de491c522efceded5aa86f83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_2b175ac96b9a84b9f8151c1df5e7e85f7c7993ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\be6f363f648b2e63d2fa35b0f058704b06f626d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_d82c529572ecdd88b1a07039f30a7282a2197f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\5e3926df9517cda3ebdb7b9b966870071176d901\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_8507fd37f3bad1028aa7fe7462ce93d99c756193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\b353fbca4f644fedecbecae367f3c3585dcf97fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_81f5e81b4065010fa8148816fadb9bcfc23550e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\fb708bf7b419eba4f77cad725dcfdaf51e2a293e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_f674b0c13bbce48855e03018bdb6fdd8dc9a91a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\u180535\.android\build-cache\08179b238645662eeca14b0bc83ac26152d9417d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\u180535\AndroidStudioProjects\Medicare\app\build\intermediates\pre-dexed\debug\classes_92609bf0679d7f8c56dc08241025b4c88d7d1f6e.jar" />
+    </item>
+
+</items>
